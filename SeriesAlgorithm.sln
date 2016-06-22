@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesAlgorithm", "SeriesAlgorithm\SeriesAlgorithm.csproj", "{6ECC1F94-638F-4FA7-9037-20F087825511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeAlgorithm", "MazeAlgorithm\MazeAlgorithm.csproj", "{822E99B7-776F-47D8-9C9D-0ACCBD90B1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeDataStructure", "BinaryTreeDataStructure\BinaryTreeDataStructure.csproj", "{9978FC77-1DBF-4948-A735-CECC5D75ECDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAlgorithm", "SortAlgorithm\SortAlgorithm.csproj", "{82C612B2-4F06-4FE3-8105-864D82F48DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECC1F94-638F-4FA7-9037-20F087825511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECC1F94-638F-4FA7-9037-20F087825511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECC1F94-638F-4FA7-9037-20F087825511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECC1F94-638F-4FA7-9037-20F087825511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822E99B7-776F-47D8-9C9D-0ACCBD90B1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822E99B7-776F-47D8-9C9D-0ACCBD90B1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822E99B7-776F-47D8-9C9D-0ACCBD90B1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822E99B7-776F-47D8-9C9D-0ACCBD90B1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9978FC77-1DBF-4948-A735-CECC5D75ECDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9978FC77-1DBF-4948-A735-CECC5D75ECDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9978FC77-1DBF-4948-A735-CECC5D75ECDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9978FC77-1DBF-4948-A735-CECC5D75ECDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C612B2-4F06-4FE3-8105-864D82F48DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C612B2-4F06-4FE3-8105-864D82F48DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C612B2-4F06-4FE3-8105-864D82F48DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C612B2-4F06-4FE3-8105-864D82F48DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
